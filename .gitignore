@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/strawman
+strawman.so
+strawman.dylib
+strawman.dll
+strawman.a
+strawman.lib
+strawman-test-*
+*.exe
+*.o
+*.obj
+*.lst
